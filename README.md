@@ -2,7 +2,7 @@
 <img width="100%" height="400px" src="https://cdna.artstation.com/p/assets/images/images/060/460/880/original/pixel-jeff-chill-mario-2023-2.gif?1678633376"/>
 <h3 align="left">Programar é também um hobby.</h3>
 
-- 💻 Atualmente trabalho com **Next.js, React, Typescript e PostgreSQL**
+- 💻 Atualmente trabalho com **Next.js, React, Typescript, Node.js, Express, PostgreSQL**
 
 - 👨‍💻 Estudando muita coisa, mas com o foco em **Java**
 
