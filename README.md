@@ -4,8 +4,6 @@
 
 - 💻 Atualmente trabalho com **Next.js, React, Typescript, Node.js, Express, PostgreSQL**
 
-- 👨‍💻 Estudando muita coisa, mas com o foco em **Java**
-
 - 🌐 Site pessoal, onde você encontra meu portfólio: [gobbo.dev](gobbo.dev)
 
 - 📧 Entre em contato: **gobbodev@proton.me**
